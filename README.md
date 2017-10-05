@@ -18,9 +18,9 @@
 ![Web UI](image/heritrix-1.png)
 ### Create New Job
 - 通过Web配置　　
-> 新建任务　　
-![新建任务](image/heritrix-2.png)　　
-> 管理任务　　
-![管理任务](image/heritrix-3.png)  
-> 配置任务(添加种子)
-![配置任务](image/heritrix-4.png)
+> - 新建任务　　
+![新建任务](heritrix-2.png)　　
+> - 管理任务　　
+![管理任务](heritrix-3.png)  
+> - 配置任务(添加种子)
+![配置任务](heritrix-4.png)
